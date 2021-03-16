@@ -17,11 +17,17 @@ constructor(props) {
     render() {             
         return (
 			<div>
-				<div className="home-watch-grid-container" dangerouslySetInnerHTML={ {__html: Tissot1} } />
+				<div className="home-watch-grid-container" > 
+                    <Tissot1></Tissot1>
+                </div>
 				<hr className="home-watch-container-separator" />
-				<div className="home-watch-grid-container" dangerouslySetInnerHTML={ {__html: HmtChinar} } />
+				<div className="home-watch-grid-container">
+                    <HmtChinar></HmtChinar>
+                </div>
 				<hr className="home-watch-container-separator" />
-				<div className="home-watch-grid-container" dangerouslySetInnerHTML={ {__html: RicohOceanDiver} } />
+				<div className="home-watch-grid-container">
+                    <RicohOceanDiver></RicohOceanDiver>
+                </div>
 			</div>
         );
     }
