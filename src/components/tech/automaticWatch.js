@@ -15,7 +15,7 @@ export default function automaticWatch() {
 				</div>
 			</div>
 			<div className="home-tech-grid-row-n">
-				<img src="/images/automatic-watch.jpg" classname="img-responsive" />
+				<img src="./images/automatic-watch.jpg" classname="img-responsive" />
 				<div className="home-tech-grid-content-text">
 					<div>1. Movement of the wrist turns the rotor, which winds the mainspring. Turning the crown also winds the mainspring.</div>
 					<div>2. The gear train transfers the energy to the escapement.</div>

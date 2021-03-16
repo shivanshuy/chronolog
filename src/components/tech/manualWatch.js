@@ -16,7 +16,7 @@ export default function () {
 				</div>
 			</div>
 			<div className="home-tech-grid-row-n">
-				<img className="img-watch-responsive" src="/images/manual-watch.jpg" />
+				<img className="img-watch-responsive" src="./images/manual-watch.jpg" />
 				<div className="home-tech-grid-content-text">
 					<div>1. Turning the crown winds the mainspring, causing it to store energy.</div>
 					<div>2. The gear train transfers the energy to the escapement.</div>
